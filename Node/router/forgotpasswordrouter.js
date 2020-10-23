@@ -17,7 +17,7 @@ app.post('/password',async (req,res)=>{
                 host:'smtp.gmail.com',
                 auth:{
                     user:'akashsahu410@gmail.com',
-                    pass:'linkedin12'
+                    pass:'password'
                 }
             });
             let mailOptions={
